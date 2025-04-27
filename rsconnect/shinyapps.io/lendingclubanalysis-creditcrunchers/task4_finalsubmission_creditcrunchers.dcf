@@ -1,0 +1,10 @@
+name: task4_finalsubmission_creditcrunchers
+title:
+username: lendingclubanalysis-creditcrunchers
+account: lendingclubanalysis-creditcrunchers
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14624547
+bundleId: 10185709
+url: https://lendingclubanalysis-creditcrunchers.shinyapps.io/task4_finalsubmission_creditcrunchers/
+version: 1
